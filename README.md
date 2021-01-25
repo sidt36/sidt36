@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a mechanical engineering interested in Fluid and Solid Mechanics, I am interested in the interdisciplinary nature of other fields of engineering.
 
 <!--
 **sidt36/sidt36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
