@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a mechanical engineering interested in Fluid and Solid Mechanics, and also in deep learning. I am interested in the multi-disciplinary nature of engineering as a whole.
+I final year mechanical engineering student at IIT Madras, I work in robotics and automotive control.
 
 <!--
 **sidt36/sidt36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
