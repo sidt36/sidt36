@@ -1,5 +1,5 @@
 ### Hi there 👋
-I final year mechanical engineering student at IIT Madras, I work in robotics and automotive control.
+I am a  mechanical engineering grad student at Stanford University, I work in robotics and AI.
 
 <!--
 **sidt36/sidt36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
